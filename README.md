@@ -2,6 +2,7 @@
 
 Mushni Chankseliani
 this repo is for react midterm
+This project was deployed on netlify [link](https://suspicious-fermat-3c7e92.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
